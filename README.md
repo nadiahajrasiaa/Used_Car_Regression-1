@@ -14,6 +14,6 @@ The dataset is provided in .csv format. It contains   , each flight has 26 featu
 
 Tools:
 
- Technologies: Python using Jupyter Notebook
--Libraries : Pandas , Linear Regression , Ridge ,Lasso ,Standard
--Scaler , Polynomial Features ,Matplotlib and Seaborn
+• Technologies: Python using Jupyter Notebook
+• Libraries : Pandas , Linear Regression , Ridge ,Lasso ,Standard
+• Scaler , Polynomial Features ,Matplotlib and Seaborn
